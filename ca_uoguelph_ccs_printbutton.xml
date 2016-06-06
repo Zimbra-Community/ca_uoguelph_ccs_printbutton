@@ -1,0 +1,4 @@
+<zimlet name="ca_uoguelph_ccs_printbutton" version="1.0" description="Print button on mail tab">
+    <include>ca_uoguelph_ccs_printbutton.js</include>
+    <handlerObject>ca_uoguelph_ccs_printbutton_HandlerObject</handlerObject>
+</zimlet>
